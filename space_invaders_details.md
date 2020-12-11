@@ -10,12 +10,12 @@
 
    Sound: SN76477 and samples.    
 
-   `Memory map:    
+    Memory map   
     ROM    
     $0000-$07ff:    invaders.h    
     $0800-$0fff:    invaders.g    
     $1000-$17ff:    invaders.f    
-    $1800-$1fff:    invaders.e    `
+    $1800-$1fff:    invaders.e    
 
     RAM    
     $2000-$23ff:    work RAM    
